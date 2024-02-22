@@ -11,7 +11,7 @@ audience: Admin
 description: "Introducing Org Explorer"
 ---
 # Introducing Org Explorer
-Org Explorer helps you visualize and explore your company’s internal structure, its teams, and people. It's available to enterprise users that have a Microsoft Viva license.
+Org Explorer helps you visualize and explore your company’s internal structure, its teams, and people. It's available to enterprise users that have a "Viva Suite" or "Viva Suite with Glint" license, or the "Viva Employee Communications and Communities" subscription with the "People in Viva" service plan enabled. 
 
 ## Availability
 
